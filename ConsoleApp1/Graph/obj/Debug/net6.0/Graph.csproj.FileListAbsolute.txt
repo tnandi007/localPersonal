@@ -1,0 +1,15 @@
+C:\Users\tatha\source\repos\ConsoleApp1\Graph\bin\Debug\net6.0\Graph.exe
+C:\Users\tatha\source\repos\ConsoleApp1\Graph\bin\Debug\net6.0\Graph.deps.json
+C:\Users\tatha\source\repos\ConsoleApp1\Graph\bin\Debug\net6.0\Graph.runtimeconfig.json
+C:\Users\tatha\source\repos\ConsoleApp1\Graph\bin\Debug\net6.0\Graph.dll
+C:\Users\tatha\source\repos\ConsoleApp1\Graph\bin\Debug\net6.0\ref\Graph.dll
+C:\Users\tatha\source\repos\ConsoleApp1\Graph\bin\Debug\net6.0\Graph.pdb
+C:\Users\tatha\source\repos\ConsoleApp1\Graph\obj\Debug\net6.0\Graph.csproj.AssemblyReference.cache
+C:\Users\tatha\source\repos\ConsoleApp1\Graph\obj\Debug\net6.0\Graph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tatha\source\repos\ConsoleApp1\Graph\obj\Debug\net6.0\Graph.AssemblyInfoInputs.cache
+C:\Users\tatha\source\repos\ConsoleApp1\Graph\obj\Debug\net6.0\Graph.AssemblyInfo.cs
+C:\Users\tatha\source\repos\ConsoleApp1\Graph\obj\Debug\net6.0\Graph.csproj.CoreCompileInputs.cache
+C:\Users\tatha\source\repos\ConsoleApp1\Graph\obj\Debug\net6.0\Graph.dll
+C:\Users\tatha\source\repos\ConsoleApp1\Graph\obj\Debug\net6.0\ref\Graph.dll
+C:\Users\tatha\source\repos\ConsoleApp1\Graph\obj\Debug\net6.0\Graph.pdb
+C:\Users\tatha\source\repos\ConsoleApp1\Graph\obj\Debug\net6.0\Graph.genruntimeconfig.cache

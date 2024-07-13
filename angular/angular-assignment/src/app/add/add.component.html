@@ -1,0 +1,7 @@
+<h1>Add Component</h1>
+<h2 [ngStyle]="currentStyles"> Number Input</h2>
+<input [(ngModel)]="inputVal" (ngModelChange)="inputChange()" type="number">
+<!-- <input [(value)] ="defValue" type="number"> -->
+<button (click)="Add()">Add</button><br>
+<h2>Result of Addition</h2>
+<input type="number" value={{sum}} disabled="true" [ngStyle]="{'color':sum | sumColor}">

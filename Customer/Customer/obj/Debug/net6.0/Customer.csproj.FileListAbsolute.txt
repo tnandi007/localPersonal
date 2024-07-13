@@ -1,0 +1,15 @@
+C:\Users\tatha\source\repos\Customer\Customer\bin\Debug\net6.0\Customer.exe
+C:\Users\tatha\source\repos\Customer\Customer\bin\Debug\net6.0\Customer.deps.json
+C:\Users\tatha\source\repos\Customer\Customer\bin\Debug\net6.0\Customer.runtimeconfig.json
+C:\Users\tatha\source\repos\Customer\Customer\bin\Debug\net6.0\Customer.dll
+C:\Users\tatha\source\repos\Customer\Customer\bin\Debug\net6.0\ref\Customer.dll
+C:\Users\tatha\source\repos\Customer\Customer\bin\Debug\net6.0\Customer.pdb
+C:\Users\tatha\source\repos\Customer\Customer\obj\Debug\net6.0\Customer.csproj.AssemblyReference.cache
+C:\Users\tatha\source\repos\Customer\Customer\obj\Debug\net6.0\Customer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tatha\source\repos\Customer\Customer\obj\Debug\net6.0\Customer.AssemblyInfoInputs.cache
+C:\Users\tatha\source\repos\Customer\Customer\obj\Debug\net6.0\Customer.AssemblyInfo.cs
+C:\Users\tatha\source\repos\Customer\Customer\obj\Debug\net6.0\Customer.csproj.CoreCompileInputs.cache
+C:\Users\tatha\source\repos\Customer\Customer\obj\Debug\net6.0\Customer.dll
+C:\Users\tatha\source\repos\Customer\Customer\obj\Debug\net6.0\ref\Customer.dll
+C:\Users\tatha\source\repos\Customer\Customer\obj\Debug\net6.0\Customer.pdb
+C:\Users\tatha\source\repos\Customer\Customer\obj\Debug\net6.0\Customer.genruntimeconfig.cache

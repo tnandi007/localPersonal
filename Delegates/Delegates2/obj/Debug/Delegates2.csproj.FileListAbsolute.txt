@@ -1,0 +1,7 @@
+C:\Users\tnandi\source\repos\C#+Advanced+Source+Files\Delegates\Delegates2\obj\Debug\Delegates2.csprojAssemblyReference.cache
+C:\Users\tnandi\source\repos\C#+Advanced+Source+Files\Delegates\Delegates2\obj\Debug\Delegates2.csproj.CoreCompileInputs.cache
+C:\Users\tnandi\source\repos\C#+Advanced+Source+Files\Delegates\Delegates2\bin\Debug\Delegates2.exe.config
+C:\Users\tnandi\source\repos\C#+Advanced+Source+Files\Delegates\Delegates2\bin\Debug\Delegates2.exe
+C:\Users\tnandi\source\repos\C#+Advanced+Source+Files\Delegates\Delegates2\bin\Debug\Delegates2.pdb
+C:\Users\tnandi\source\repos\C#+Advanced+Source+Files\Delegates\Delegates2\obj\Debug\Delegates2.exe
+C:\Users\tnandi\source\repos\C#+Advanced+Source+Files\Delegates\Delegates2\obj\Debug\Delegates2.pdb

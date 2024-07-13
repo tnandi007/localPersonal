@@ -1,0 +1,7 @@
+C:\Users\tnandi\source\repos\ConsoleApp1\Covariance\bin\Debug\Covariance.exe.config
+C:\Users\tnandi\source\repos\ConsoleApp1\Covariance\bin\Debug\Covariance.exe
+C:\Users\tnandi\source\repos\ConsoleApp1\Covariance\bin\Debug\Covariance.pdb
+C:\Users\tnandi\source\repos\ConsoleApp1\Covariance\obj\Debug\Covariance.csprojAssemblyReference.cache
+C:\Users\tnandi\source\repos\ConsoleApp1\Covariance\obj\Debug\Covariance.csproj.CoreCompileInputs.cache
+C:\Users\tnandi\source\repos\ConsoleApp1\Covariance\obj\Debug\Covariance.exe
+C:\Users\tnandi\source\repos\ConsoleApp1\Covariance\obj\Debug\Covariance.pdb

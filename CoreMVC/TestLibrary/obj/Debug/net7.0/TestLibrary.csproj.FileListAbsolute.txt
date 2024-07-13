@@ -1,0 +1,10 @@
+C:\Users\tatha\source\repos\CoreMVC\TestLibrary\obj\Debug\net7.0\TestLibrary.csproj.AssemblyReference.cache
+C:\Users\tatha\source\repos\CoreMVC\TestLibrary\obj\Debug\net7.0\TestLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tatha\source\repos\CoreMVC\TestLibrary\obj\Debug\net7.0\TestLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tatha\source\repos\CoreMVC\TestLibrary\bin\Debug\net7.0\TestLibrary.deps.json
+C:\Users\tatha\source\repos\CoreMVC\TestLibrary\bin\Debug\net7.0\TestLibrary.dll
+C:\Users\tatha\source\repos\CoreMVC\TestLibrary\bin\Debug\net7.0\TestLibrary.pdb
+C:\Users\tatha\source\repos\CoreMVC\TestLibrary\obj\Debug\net7.0\TestLibrary.dll
+C:\Users\tatha\source\repos\CoreMVC\TestLibrary\obj\Debug\net7.0\refint\TestLibrary.dll
+C:\Users\tatha\source\repos\CoreMVC\TestLibrary\obj\Debug\net7.0\TestLibrary.pdb
+C:\Users\tatha\source\repos\CoreMVC\TestLibrary\obj\Debug\net7.0\ref\TestLibrary.dll

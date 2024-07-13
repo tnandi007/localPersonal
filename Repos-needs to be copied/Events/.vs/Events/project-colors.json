@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "25723f95-0d12-404e-b3f6-86dc7ff63889": {
+      "ProjectGuid": "25723f95-0d12-404e-b3f6-86dc7ff63889",
+      "DisplayName": "BuiltInEventHandlerDelegate",
+      "ColorIndex": 0
+    },
+    "dfcba76e-dd17-48ef-8ed8-ea5b967795bc": {
+      "ProjectGuid": "dfcba76e-dd17-48ef-8ed8-ea5b967795bc",
+      "DisplayName": "PassingEventData",
+      "ColorIndex": 1
+    },
+    "d2f03345-fea4-4529-bdfa-58ab879d916a": {
+      "ProjectGuid": "d2f03345-fea4-4529-bdfa-58ab879d916a",
+      "DisplayName": "PassingMultipleEventData",
+      "ColorIndex": 2
+    },
+    "e4c0176e-36c5-49d8-9155-296c585db53a": {
+      "ProjectGuid": "e4c0176e-36c5-49d8-9155-296c585db53a",
+      "DisplayName": "SimpleEvent",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

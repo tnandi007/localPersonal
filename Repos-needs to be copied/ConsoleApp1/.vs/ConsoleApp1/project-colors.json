@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fbdbd6c3-512d-4f61-84d6-9c22759030a2": {
+      "ProjectGuid": "fbdbd6c3-512d-4f61-84d6-9c22759030a2",
+      "DisplayName": "LinkedList",
+      "ColorIndex": 0
+    },
+    "ec20c217-0d30-4594-b52c-3dd732e59154": {
+      "ProjectGuid": "ec20c217-0d30-4594-b52c-3dd732e59154",
+      "DisplayName": "Association",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

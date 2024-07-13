@@ -1,0 +1,7 @@
+C:\Users\tatha\source\repos\SOLID\SOLID\bin\Debug\SOLID.pdb
+C:\Users\tatha\source\repos\SOLID\SOLID\obj\Debug\SOLID.csproj.AssemblyReference.cache
+C:\Users\tatha\source\repos\SOLID\SOLID\obj\Debug\SOLID.csproj.CoreCompileInputs.cache
+C:\Users\tatha\source\repos\SOLID\SOLID\obj\Debug\SOLID.pdb
+C:\Users\tatha\source\repos\SOLID\SOLID\obj\Debug\SOLID.csproj.SuggestedBindingRedirects.cache
+C:\Users\tatha\source\repos\SOLID\SOLID\bin\Debug\SOLID.exe
+C:\Users\tatha\source\repos\SOLID\SOLID\obj\Debug\SOLID.exe

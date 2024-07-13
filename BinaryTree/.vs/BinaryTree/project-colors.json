@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ec360b0f-9e78-49e0-93bf-db59317be459": {
+      "ProjectGuid": "ec360b0f-9e78-49e0-93bf-db59317be459",
+      "DisplayName": "BinaryTree",
+      "ColorIndex": 0
+    },
+    "61603a0c-576a-4155-877e-9dfcc5b20e04": {
+      "ProjectGuid": "61603a0c-576a-4155-877e-9dfcc5b20e04",
+      "DisplayName": "Miscellanious",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,15 @@
+C:\Users\tatha\source\repos\CoreMVC\Test2API\bin\Debug\net6.0\Test2API.deps.json
+C:\Users\tatha\source\repos\CoreMVC\Test2API\bin\Debug\net6.0\Test2API.dll
+C:\Users\tatha\source\repos\CoreMVC\Test2API\bin\Debug\net6.0\Test2API.pdb
+C:\Users\tatha\source\repos\CoreMVC\Test2API\bin\Debug\net6.0\CommonBase.dll
+C:\Users\tatha\source\repos\CoreMVC\Test2API\bin\Debug\net6.0\CommonBase.pdb
+C:\Users\tatha\source\repos\CoreMVC\Test2API\obj\Debug\net6.0\Test2API.csproj.AssemblyReference.cache
+C:\Users\tatha\source\repos\CoreMVC\Test2API\obj\Debug\net6.0\Test2API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tatha\source\repos\CoreMVC\Test2API\obj\Debug\net6.0\Test2API.AssemblyInfoInputs.cache
+C:\Users\tatha\source\repos\CoreMVC\Test2API\obj\Debug\net6.0\Test2API.AssemblyInfo.cs
+C:\Users\tatha\source\repos\CoreMVC\Test2API\obj\Debug\net6.0\Test2API.csproj.CoreCompileInputs.cache
+C:\Users\tatha\source\repos\CoreMVC\Test2API\obj\Debug\net6.0\Test2API.csproj.CopyComplete
+C:\Users\tatha\source\repos\CoreMVC\Test2API\obj\Debug\net6.0\Test2API.dll
+C:\Users\tatha\source\repos\CoreMVC\Test2API\obj\Debug\net6.0\refint\Test2API.dll
+C:\Users\tatha\source\repos\CoreMVC\Test2API\obj\Debug\net6.0\Test2API.pdb
+C:\Users\tatha\source\repos\CoreMVC\Test2API\obj\Debug\net6.0\ref\Test2API.dll

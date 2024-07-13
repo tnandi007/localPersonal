@@ -1,0 +1,7 @@
+C:\Users\tnandi\source\repos\Events\PassingEventData\bin\Debug\PassingEventData.exe.config
+C:\Users\tnandi\source\repos\Events\PassingEventData\bin\Debug\PassingEventData.exe
+C:\Users\tnandi\source\repos\Events\PassingEventData\bin\Debug\PassingEventData.pdb
+C:\Users\tnandi\source\repos\Events\PassingEventData\obj\Debug\PassingEventData.csprojAssemblyReference.cache
+C:\Users\tnandi\source\repos\Events\PassingEventData\obj\Debug\PassingEventData.csproj.CoreCompileInputs.cache
+C:\Users\tnandi\source\repos\Events\PassingEventData\obj\Debug\PassingEventData.exe
+C:\Users\tnandi\source\repos\Events\PassingEventData\obj\Debug\PassingEventData.pdb

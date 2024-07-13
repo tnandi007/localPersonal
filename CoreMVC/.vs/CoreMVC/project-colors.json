@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "065c3ebe-e289-4800-93b4-377145a27617": {
+      "ProjectGuid": "065c3ebe-e289-4800-93b4-377145a27617",
+      "DisplayName": "CoreMVC",
+      "ColorIndex": 0
+    },
+    "da8cdb57-6c21-48de-a477-aa98448a43ec": {
+      "ProjectGuid": "da8cdb57-6c21-48de-a477-aa98448a43ec",
+      "DisplayName": "TestLibrary",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

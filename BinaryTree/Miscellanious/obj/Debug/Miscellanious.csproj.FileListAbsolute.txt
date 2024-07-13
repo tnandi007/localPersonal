@@ -1,0 +1,8 @@
+C:\Users\tatha\source\repos\BinaryTree\Miscellanious\bin\Debug\Miscellanious.exe.config
+C:\Users\tatha\source\repos\BinaryTree\Miscellanious\bin\Debug\Miscellanious.exe
+C:\Users\tatha\source\repos\BinaryTree\Miscellanious\bin\Debug\Miscellanious.pdb
+C:\Users\tatha\source\repos\BinaryTree\Miscellanious\obj\Debug\Miscellanious.csproj.AssemblyReference.cache
+C:\Users\tatha\source\repos\BinaryTree\Miscellanious\obj\Debug\Miscellanious.csproj.SuggestedBindingRedirects.cache
+C:\Users\tatha\source\repos\BinaryTree\Miscellanious\obj\Debug\Miscellanious.csproj.CoreCompileInputs.cache
+C:\Users\tatha\source\repos\BinaryTree\Miscellanious\obj\Debug\Miscellanious.exe
+C:\Users\tatha\source\repos\BinaryTree\Miscellanious\obj\Debug\Miscellanious.pdb

@@ -1,0 +1,16 @@
+C:\Users\tnandi\source\repos\CodeFirst\CodeFirstExistingDatabase\bin\Debug\CodeFirstExistingDatabase.exe.config
+C:\Users\tnandi\source\repos\CodeFirst\CodeFirstExistingDatabase\bin\Debug\CodeFirstExistingDatabase.exe
+C:\Users\tnandi\source\repos\CodeFirst\CodeFirstExistingDatabase\bin\Debug\CodeFirstExistingDatabase.pdb
+C:\Users\tnandi\source\repos\CodeFirst\CodeFirstExistingDatabase\bin\Debug\EntityFramework.dll
+C:\Users\tnandi\source\repos\CodeFirst\CodeFirstExistingDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tnandi\source\repos\CodeFirst\CodeFirstExistingDatabase\bin\Debug\EntityFramework.xml
+C:\Users\tnandi\source\repos\CodeFirst\CodeFirstExistingDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tnandi\source\repos\CodeFirst\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.csprojAssemblyReference.cache
+C:\Users\tnandi\source\repos\CodeFirst\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.csproj.CoreCompileInputs.cache
+C:\Users\tnandi\source\repos\CodeFirst\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.csproj.CopyComplete
+C:\Users\tnandi\source\repos\CodeFirst\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.exe
+C:\Users\tnandi\source\repos\CodeFirst\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.pdb
+C:\Users\tnandi\source\repos\CodeFirst\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.Migrations.InitialMigration.resources
+C:\Users\tnandi\source\repos\CodeFirst\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.csproj.GenerateResource.cache
+C:\Users\tnandi\source\repos\CodeFirst\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.Migrations.AddCategoriesTable.resources
+C:\Users\tnandi\source\repos\CodeFirst\CodeFirstExistingDatabase\obj\Debug\CodeFirstExistingDatabase.Migrations.AddCategoryColumnToCoursesTable.resources

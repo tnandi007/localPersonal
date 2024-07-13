@@ -1,0 +1,7 @@
+C:\Users\tnandi\source\repos\Asynchronous\Asynchronous\obj\Debug\Asynchronous.csprojAssemblyReference.cache
+C:\Users\tnandi\source\repos\Asynchronous\Asynchronous\obj\Debug\Asynchronous.csproj.CoreCompileInputs.cache
+C:\Users\tnandi\source\repos\Asynchronous\Asynchronous\bin\Debug\Asynchronous.exe.config
+C:\Users\tnandi\source\repos\Asynchronous\Asynchronous\bin\Debug\Asynchronous.exe
+C:\Users\tnandi\source\repos\Asynchronous\Asynchronous\bin\Debug\Asynchronous.pdb
+C:\Users\tnandi\source\repos\Asynchronous\Asynchronous\obj\Debug\Asynchronous.exe
+C:\Users\tnandi\source\repos\Asynchronous\Asynchronous\obj\Debug\Asynchronous.pdb

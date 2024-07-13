@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VQVnbL1M0gQ+uOPQ0ClICRdCLCSpd4iZEH984kIM4WJRWFHVY45E9lgFT1oSEKFj5UEaJE/KDfAllNQKSyhQwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tatha\\source\\repos\\CoreMVC\\TestLibrary\\TestLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tatha\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\tatha\\.nuget\\packages\\microsoft.dotnet.upgradeassistant.extensions.default.analyzers\\0.4.410601\\microsoft.dotnet.upgradeassistant.extensions.default.analyzers.0.4.410601.nupkg.sha512",
+    "C:\\Users\\tatha\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\tatha\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

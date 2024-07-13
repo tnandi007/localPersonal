@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "kW0+lFY14mVYTDKoDcQd7J+wGruuj6xFPzhTPYveXOk=",
+  "Source": "CoreMVC1",
+  "BasePath": "_content/CoreMVC1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CoreMVC1\\wwwroot",
+      "Source": "CoreMVC1",
+      "ContentRoot": "C:\\Users\\tatha\\source\\repos\\CoreMVC1\\CoreMVC1\\wwwroot\\",
+      "BasePath": "_content/CoreMVC1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\tatha\\source\\repos\\CoreMVC1\\CoreMVC1\\wwwroot\\Index.html",
+      "SourceId": "CoreMVC1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tatha\\source\\repos\\CoreMVC1\\CoreMVC1\\wwwroot\\",
+      "BasePath": "_content/CoreMVC1",
+      "RelativePath": "Index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Index.html"
+    }
+  ]
+}

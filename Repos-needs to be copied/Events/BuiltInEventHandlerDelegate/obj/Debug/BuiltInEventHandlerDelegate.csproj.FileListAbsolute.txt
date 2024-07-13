@@ -1,0 +1,7 @@
+C:\Users\tnandi\source\repos\Events\BuiltInEventHandlerDelegate\bin\Debug\BuiltInEventHandlerDelegate.exe.config
+C:\Users\tnandi\source\repos\Events\BuiltInEventHandlerDelegate\bin\Debug\BuiltInEventHandlerDelegate.exe
+C:\Users\tnandi\source\repos\Events\BuiltInEventHandlerDelegate\bin\Debug\BuiltInEventHandlerDelegate.pdb
+C:\Users\tnandi\source\repos\Events\BuiltInEventHandlerDelegate\obj\Debug\BuiltInEventHandlerDelegate.csprojAssemblyReference.cache
+C:\Users\tnandi\source\repos\Events\BuiltInEventHandlerDelegate\obj\Debug\BuiltInEventHandlerDelegate.csproj.CoreCompileInputs.cache
+C:\Users\tnandi\source\repos\Events\BuiltInEventHandlerDelegate\obj\Debug\BuiltInEventHandlerDelegate.exe
+C:\Users\tnandi\source\repos\Events\BuiltInEventHandlerDelegate\obj\Debug\BuiltInEventHandlerDelegate.pdb

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\tatha\\source\\repos\\CoreMVC1\\CoreMVC1\\wwwroot\\Index.html",
+      "PackagePath": "staticwebassets\\Index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CoreMVC1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CoreMVC1.props",
+      "PackagePath": "build\\CoreMVC1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CoreMVC1.props",
+      "PackagePath": "buildMultiTargeting\\CoreMVC1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CoreMVC1.props",
+      "PackagePath": "buildTransitive\\CoreMVC1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

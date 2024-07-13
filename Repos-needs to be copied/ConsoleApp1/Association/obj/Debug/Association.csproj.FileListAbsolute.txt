@@ -1,0 +1,7 @@
+C:\Users\tnandi\source\repos\ConsoleApp1\Association\bin\Debug\Association.exe.config
+C:\Users\tnandi\source\repos\ConsoleApp1\Association\bin\Debug\Association.exe
+C:\Users\tnandi\source\repos\ConsoleApp1\Association\bin\Debug\Association.pdb
+C:\Users\tnandi\source\repos\ConsoleApp1\Association\obj\Debug\Association.csprojAssemblyReference.cache
+C:\Users\tnandi\source\repos\ConsoleApp1\Association\obj\Debug\Association.csproj.CoreCompileInputs.cache
+C:\Users\tnandi\source\repos\ConsoleApp1\Association\obj\Debug\Association.exe
+C:\Users\tnandi\source\repos\ConsoleApp1\Association\obj\Debug\Association.pdb

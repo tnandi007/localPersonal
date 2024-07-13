@@ -1,0 +1,6 @@
+C:\Users\tnandi\source\repos\Events\PassingMultipleEventData\bin\Debug\PassingMultipleEventData.exe.config
+C:\Users\tnandi\source\repos\Events\PassingMultipleEventData\bin\Debug\PassingMultipleEventData.exe
+C:\Users\tnandi\source\repos\Events\PassingMultipleEventData\bin\Debug\PassingMultipleEventData.pdb
+C:\Users\tnandi\source\repos\Events\PassingMultipleEventData\obj\Debug\PassingMultipleEventData.csproj.CoreCompileInputs.cache
+C:\Users\tnandi\source\repos\Events\PassingMultipleEventData\obj\Debug\PassingMultipleEventData.exe
+C:\Users\tnandi\source\repos\Events\PassingMultipleEventData\obj\Debug\PassingMultipleEventData.pdb

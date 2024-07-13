@@ -1,0 +1,15 @@
+C:\Users\tatha\source\repos\Sort\Sort\bin\Debug\net6.0\Sort.exe
+C:\Users\tatha\source\repos\Sort\Sort\bin\Debug\net6.0\Sort.deps.json
+C:\Users\tatha\source\repos\Sort\Sort\bin\Debug\net6.0\Sort.runtimeconfig.json
+C:\Users\tatha\source\repos\Sort\Sort\bin\Debug\net6.0\Sort.dll
+C:\Users\tatha\source\repos\Sort\Sort\bin\Debug\net6.0\ref\Sort.dll
+C:\Users\tatha\source\repos\Sort\Sort\bin\Debug\net6.0\Sort.pdb
+C:\Users\tatha\source\repos\Sort\Sort\obj\Debug\net6.0\Sort.csproj.AssemblyReference.cache
+C:\Users\tatha\source\repos\Sort\Sort\obj\Debug\net6.0\Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tatha\source\repos\Sort\Sort\obj\Debug\net6.0\Sort.AssemblyInfoInputs.cache
+C:\Users\tatha\source\repos\Sort\Sort\obj\Debug\net6.0\Sort.AssemblyInfo.cs
+C:\Users\tatha\source\repos\Sort\Sort\obj\Debug\net6.0\Sort.csproj.CoreCompileInputs.cache
+C:\Users\tatha\source\repos\Sort\Sort\obj\Debug\net6.0\Sort.dll
+C:\Users\tatha\source\repos\Sort\Sort\obj\Debug\net6.0\ref\Sort.dll
+C:\Users\tatha\source\repos\Sort\Sort\obj\Debug\net6.0\Sort.pdb
+C:\Users\tatha\source\repos\Sort\Sort\obj\Debug\net6.0\Sort.genruntimeconfig.cache

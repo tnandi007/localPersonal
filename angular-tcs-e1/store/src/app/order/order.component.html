@@ -1,0 +1,18 @@
+<h1>Order Dashboard</h1>
+<div>
+    <div *ngFor ="let order of orders | sortOrders:'pickupTime'" appHighlightPastPickup [pickupTime]="order.pickupTime">
+        <p> Order # : {{order.id}}</p>
+        <p> <span class="highlight">Customer Name </span> : {{order.customer | titlecase}}</p>
+        <p> <span class="highlight">Drink </span> : <span class="highlight-drink"> {{order.drink}} </span></p>
+        <p> <span class="highlight">Order Size </span> : {{order.size}}</p>
+        <p> 
+            <span class="highlight">Order Notes</span> :
+            <span *ngIf="order.notes; else elseBlock">{{order.notes}}</span>
+            <ng-template #elseBlock>No special notes</ng-template> 
+        </p>
+        <p> <span class="highlight">Pickup Time </span> : {{ toDate(order.pickupTime) | date:'shortTime'}}</p>
+        <button (click)="markAsPicked(order.id)">Mark as Picked</button>
+    </div>
+
+
+</div>
